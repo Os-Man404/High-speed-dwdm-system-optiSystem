@@ -20,7 +20,7 @@ and channel-wise BER and Q-factor analysis.
 
 ## Main System Design
 
-![128-channel DWDM component design](128 real Component design.png)
+![128-channel DWDM component design](128-real-Component-design.png)
 
 The component-level design includes the WDM transmitter, WDM multiplexer,
 optical fiber, optical amplifiers, DCF, WDM demultiplexer, optical receivers,
