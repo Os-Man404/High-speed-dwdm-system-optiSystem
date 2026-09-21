@@ -28,28 +28,28 @@ and BER analyzers.
 
 ## OptiSystem Architecture
 
-![Optical amplifier and DCF system design](Using Optical Amplifier and DCF design.png)
+![Optical amplifier and DCF system design](Using-Optical-Amplifier-and-DCF-design.png)
 
 The main architecture combines optical amplification and dispersion
 compensation to improve signal quality over the transmission link.
 
 ## Channel-wise Performance
 
-![Q-factor and BER across channels](simulation-results/128 channel.png)
+![Q-factor and BER across channels](simulation-results/128-channel.png)
 
 The plot presents the Q-factor and BER behavior across the investigated
 DWDM channels.
 
 ## Q-Factor Distribution
 
-![Q-factor distribution](simulation-results/Q factor distribution.png)
+![Q-factor distribution](simulation-results/Q-factor-distribution.png)
 
 This distribution summarizes the Q-factor ranges obtained across the analyzed
 channels.
 
 ## BER Distribution
 
-![BER distribution](simulation-results/BER distribution.png)
+![BER distribution](simulation-results/BER-distribution.png)
 
 This plot summarizes the BER distribution across different orders of magnitude.
 
