@@ -1,12 +1,14 @@
 # OptiSystem Project Files
 
-Place the original OptiSystem project file in this folder when it is available.
-For example:
-
 ```text
 simulation/
-    2-4-tbps-dwdm-system.osd
+    2 Channel DWDM.osd
+    4 Channel DWDM.osd
+    32 Channel DWDM.osd
+    128 Channel DWDM.osd
+    Architecture Design.osd
+    FSO.osd
+    WDM PON.osd
 ```
 
-The current portfolio package contains the design and simulation outputs. The
-original OptiSystem project file should be added separately if it is available.
+
