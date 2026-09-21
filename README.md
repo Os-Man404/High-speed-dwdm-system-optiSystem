@@ -20,7 +20,7 @@ and channel-wise BER and Q-factor analysis.
 
 ## Main System Design
 
-![128-channel DWDM component design](128-channel-component-design.png)
+![128-channel DWDM component design](128 real Component design.png)
 
 The component-level design includes the WDM transmitter, WDM multiplexer,
 optical fiber, optical amplifiers, DCF, WDM demultiplexer, optical receivers,
@@ -28,28 +28,28 @@ and BER analyzers.
 
 ## OptiSystem Architecture
 
-![Optical amplifier and DCF system design](Using-Optical-Amplifier-and-DCF-design.png)
+![Optical amplifier and DCF system design](Using Optical Amplifier and DCF design.png)
 
 The main architecture combines optical amplification and dispersion
 compensation to improve signal quality over the transmission link.
 
 ## Channel-wise Performance
 
-![Q-factor and BER across channels](results/q-factor-ber-all-channels.png)
+![Q-factor and BER across channels](simulation-results/128 channel.png)
 
 The plot presents the Q-factor and BER behavior across the investigated
 DWDM channels.
 
 ## Q-Factor Distribution
 
-![Q-factor distribution](results/q-factor-distribution.png)
+![Q-factor distribution](simulation-results/Q factor distribution.png)
 
 This distribution summarizes the Q-factor ranges obtained across the analyzed
 channels.
 
 ## BER Distribution
 
-![BER distribution](results/ber-distribution.png)
+![BER distribution](simulation-results/BER distribution.png)
 
 This plot summarizes the BER distribution across different orders of magnitude.
 
