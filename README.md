@@ -20,7 +20,7 @@ and channel-wise BER and Q-factor analysis.
 
 ## Main System Design
 
-![128-channel DWDM component design](assets/128-channel-component-design.png)
+![128-channel DWDM component design](128-channel-component-design.png)
 
 The component-level design includes the WDM transmitter, WDM multiplexer,
 optical fiber, optical amplifiers, DCF, WDM demultiplexer, optical receivers,
@@ -28,7 +28,7 @@ and BER analyzers.
 
 ## OptiSystem Architecture
 
-![Optical amplifier and DCF system design](assets/oa-dcf-system-design.png)
+![Optical amplifier and DCF system design](Using-Optical-Amplifier-and-DCF-design.png)
 
 The main architecture combines optical amplification and dispersion
 compensation to improve signal quality over the transmission link.
